@@ -1,0 +1,42 @@
+[
+    {
+        "name":"iPhone10",
+        "price" : 1220,
+        "featured": true,
+        "company":"apple"
+    },
+    {
+        "name":"iPhone15",
+        "price" : 20111111,
+        "featured": true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price" : 120,
+        "company":"apple"
+    },
+    {
+        "name":"watch 10",
+        "price" : 304,
+        "company":"apple"
+    },
+    {
+        "name":"iPhone11",
+        "price" : 1020,
+        "company":"apple"
+    },{
+        "name":"samsung s20",
+        "price" : 4001,
+        "company":"samsung"
+    },
+    {
+        "name":"dell 540",
+        "price" : 9800,
+        "company":"dell"
+    },{
+        "name":"mi pixel",
+        "price" : 3200,
+        "company":"mi"
+    }
+]
