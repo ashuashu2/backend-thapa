@@ -6,7 +6,7 @@ const products_routes = require("./routes/product");
 const connectDB = require("./db/connect");
 
 app.get("/",(req,res)=>{
-    res.send("hy i m home ")
+    res.send("hy i m home . ")
 })
 
 
